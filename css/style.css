@@ -1,0 +1,40 @@
+body{
+    background-color: #F3F1FF;
+}
+
+main, .navbar{
+    max-width: 870px;
+}
+
+.navbar img{
+    width: 40px;
+}
+
+#Players img{
+    width: 56px;
+}
+
+#Blog img{
+    width: 177px;
+    height: 117px;
+    
+}
+
+#Courses img{
+    width: 224px;
+    height: 104px;
+}
+
+.text-blue{
+    color:#562EFF
+}
+
+.text-aqua{
+    color: #ED6B4F;
+    font-weight: normal;
+    font-size: 14.6913px;
+}
+
+.fa-star{
+    font-size:14px;color:#FFC014
+}
